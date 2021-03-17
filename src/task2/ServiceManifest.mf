@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Ivan Usov
+Bundle-ManifestVersion: 2
+Bundle-Name: HelloService
+Bundle-SymbolicName: HelloServiceBundle
+Bundle-Version: 1.0
+Export-Package: task2;version="1.0"
+Bundle-Activator: task2.HelloService
+Import-Package: org.osgi.framework
