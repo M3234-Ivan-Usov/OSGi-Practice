@@ -1,4 +1,6 @@
-package task2;
+package ru.ifmo.rain.stage2.service;
+
+import ru.ifmo.rain.stage2.hello.Hello;
 
 public class HelloWorld implements Hello {
     @Override

@@ -1,8 +1,9 @@
-package task2;
+package ru.ifmo.rain.stage2.service;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 import org.osgi.framework.ServiceReference;
+import ru.ifmo.rain.stage2.hello.Hello;
 
 public class HelloService implements BundleActivator {
     @Override
