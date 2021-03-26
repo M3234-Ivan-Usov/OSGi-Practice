@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OSGi-Practice.iml" filepath="$PROJECT_DIR$/OSGi-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ru/ifmo/rain/stage3/client/client.iml" filepath="$PROJECT_DIR$/src/ru/ifmo/rain/stage3/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ru/ifmo/rain/stage3/service/service.iml" filepath="$PROJECT_DIR$/src/ru/ifmo/rain/stage3/service/service.iml" />
     </modules>
   </component>
 </project>
