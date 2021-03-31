@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Created-By: Ivan Usov
-Bundle-ManifestVersion: 2
-Bundle-Name: HelloService
-Bundle-SymbolicName: HelloServiceBundle
-Bundle-Version: 1.0
-Export-Package: ru.ifmo.rain.stage2.hello;version="1.0"
-Bundle-Activator: ru.ifmo.rain.stage2.service.HelloService
-Import-Package: org.osgi.framework

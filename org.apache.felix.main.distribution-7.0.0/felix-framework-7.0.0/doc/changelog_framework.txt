@@ -631,7 +631,7 @@ Changes from 2.0.5 to 3.0.0
     * [FELIX-1967] - Freeze finding consistent class space
     * [FELIX-2080] - Updating bundles when debugging switched on might result in a deadlock with 100% CPU usage
     * [FELIX-2150] - URLStreamHandlerProxy.setURL may not set query component correctly
-    * [FELIX-2172] - Extremely long resolve stage when running CXF-DOSGi system test
+    * [FELIX-2172] - Extremely long resolve stage3 when running CXF-DOSGi system test
     * [FELIX-2177] - Fragment bundles not loaded after second start when using autodeploy
     * [FELIX-2271] - CLONE -NPE "name can't be null" when trying to install a bundle in Felix 2.0.3
     * [FELIX-2273] - getClassLoader-permission required accessing classes from dynamically loaded class
