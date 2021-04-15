@@ -1,2 +1,0 @@
-install ../../out/production/OSGi-Practice/HelloService.jar
-install ../../out/production/OSGi-Practice/HelloClient.jar
